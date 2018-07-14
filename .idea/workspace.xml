@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2fac5fdd-f878-4241-844f-98660c20357b" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/../Text/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Text/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Text/src/org/westos/kaka/Text.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Text/src/org/westos/kaka/Text.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/../Text/out/" />
@@ -17,8 +18,8 @@
       <file leaf-file-name="Text.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../Text/src/org/westos/kaka/Text.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+            <state relative-caret-position="154">
+              <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -198,7 +199,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1531550607316</updated>
-      <workItem from="1531550619553" duration="2118000" />
+      <workItem from="1531550619553" duration="2533000" />
     </task>
     <task id="LOCAL-00001" summary="11">
       <created>1531551663731</created>
@@ -249,11 +250,18 @@
       <option name="project" value="LOCAL" />
       <updated>1531552576059</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="2">
+      <created>1531552782789</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1531552782789</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2118000" />
+    <option name="totallyTimeSpent" value="2533000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -268,7 +276,7 @@
       <window_info anchor="bottom" id="Application Servers" />
       <window_info anchor="right" id="Maven Projects" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Version Control" visible="true" weight="0.32993197" />
+      <window_info active="true" anchor="bottom" id="Version Control" visible="true" weight="0.2772109" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info id="Designer" />
@@ -333,13 +341,15 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="11" />
     <MESSAGE value="2" />
-    <option name="LAST_COMMIT_MESSAGE" value="2" />
+    <MESSAGE value="Merge branch 'master' of https://github.com/wangwan1111111/Text into HEAD&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;src/org/westos/kaka/Text.java" />
+    <MESSAGE value="第四次提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="第四次提交" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/../Text/src/org/westos/kaka/Text.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+        <state relative-caret-position="154">
+          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
         </state>
       </provider>
     </entry>
