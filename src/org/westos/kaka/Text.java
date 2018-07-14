@@ -6,5 +6,13 @@ public class Text {
         System.out.println("你好");
         System.out.println("你好");
         System.out.println("4444444444444444444444");
+        System.out.println("4444444444444444444444");
+        System.out.println("4444444444444444444444");
+        System.out.println("4444444444444444444444");
+        System.out.println("4444444444444444444444");
+        System.out.println("4444444444444444444444");
+        System.out.println("4444444444444444444444");
+
+
     }
 }
