@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2fac5fdd-f878-4241-844f-98660c20357b" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/../Text/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Text/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="2fac5fdd-f878-4241-844f-98660c20357b" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/../Text/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,8 +15,8 @@
       <file leaf-file-name="Text.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../Text/src/org/westos/kaka/Text.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="88">
+              <caret line="4" column="33" lean-forward="true" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -34,6 +32,11 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../Text" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/../Text" value="master" />
+      </map>
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -193,7 +196,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1531550607316</updated>
-      <workItem from="1531550619553" duration="1397000" />
+      <workItem from="1531550619553" duration="1691000" />
     </task>
     <task id="LOCAL-00001" summary="11">
       <created>1531551663731</created>
@@ -209,14 +212,29 @@
       <option name="project" value="LOCAL" />
       <updated>1531551791488</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="11">
+      <created>1531552186740</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1531552186740</updated>
+    </task>
+    <task id="LOCAL-00004" summary="11">
+      <created>1531552268637</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1531552268637</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1397000" />
+    <option name="totallyTimeSpent" value="1691000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="SVN Repositories" weight="0.32993197" />
       <window_info anchor="right" id="Palette" />
@@ -227,11 +245,11 @@
       <window_info anchor="bottom" id="Application Servers" />
       <window_info anchor="right" id="Maven Projects" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" visible="true" weight="0.32993197" />
+      <window_info active="true" anchor="bottom" id="Version Control" visible="true" weight="0.32993197" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info id="Designer" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22844176" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22844176" />
       <window_info id="Web" side_tool="true" />
       <window_info anchor="right" id="Database" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -296,8 +314,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/../Text/src/org/westos/kaka/Text.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="88">
+          <caret line="4" column="33" lean-forward="true" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
         </state>
       </provider>
     </entry>
@@ -318,7 +336,7 @@
       <state key="ArtifactsStructureConfigurable.UI">
         <settings>
           <artifact-editor />
-          <last-edited />
+          <last-edited>Text:war exploded</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
